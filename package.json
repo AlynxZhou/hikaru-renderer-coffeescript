@@ -1,0 +1,28 @@
+{
+  "name": "hikaru-renderer-coffeescript",
+  "version": "1.0.0",
+  "description": "A CoffeeScript renderer for Hikaru.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlynxZhou/hikaru-renderer-coffeescript.git"
+  },
+  "keywords": [
+    "Hikaru",
+    "Renderer",
+    "Plugin",
+    "CoffeeScript"
+  ],
+  "author": "AlynxZhou <alynx.zhou@gmail.com> (https://alynx.xyz/)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/AlynxZhou/hikaru-renderer-coffeescript/issues"
+  },
+  "homepage": "https://github.com/AlynxZhou/hikaru-renderer-coffeescript#readme",
+  "dependencies": {
+    "coffeescript": "^2.3.2"
+  }
+}
