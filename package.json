@@ -1,6 +1,6 @@
 {
   "name": "hikaru-renderer-coffeescript",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CoffeeScript renderer for Hikaru.",
   "main": "index.js",
   "scripts": {
